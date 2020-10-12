@@ -9,6 +9,9 @@
 
 <img src="https://github.com/arielgk/arielgk/raw/main/img/ra.gif" width="500px">
 
+<img src="https://github.com/arielgk/arielgk/raw/main/img/bim.gif" width="500px">
+
+
  
 <!--
 **arielgk/arielgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
