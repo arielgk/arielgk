@@ -4,6 +4,9 @@
 <img src="https://github.com/arielgk/arielgk/raw/main/img/af-animation.gif" width="300px">
 
 
+<img src="https://github.com/arielgk/arielgk/raw/main/img/cuentos_de_viejos.gif" width="300px">
+
+
 <!--
 **arielgk/arielgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
