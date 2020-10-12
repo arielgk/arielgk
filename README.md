@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://raw.githubusercontent.com/arielgk/arielgk/master/af-animation.gif" width="30px">
+<img src="https://raw.githubusercontent.com/arielgk/arielgk/master/img/af-animation.gif" width="30px">
 
 
 <!--
