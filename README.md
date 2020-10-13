@@ -73,7 +73,7 @@ this Android app was build to help viewer of a TV show, to send his video storie
 #### UX/UI for Mobile App.
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 
-<img src="https://github.com/arielgk/arielgk/raw/main/img/ux.gif" width="500px">
+<img src="https://github.com/arielgk/arielgk/raw/main/img/ux.jpeg" width="500px">
 
 
 #### Muntref augmented reality IOS/Android app.
