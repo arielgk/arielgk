@@ -35,7 +35,7 @@ Learning a lot about players and streaming technologies (Dash, Widevine, HLS)
 ## Relevant proyects
 
 #### Kids website
-Kids can enjoy this show with this website animated sections.
+Kids can enjoy this show with this animated website.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -59,7 +59,8 @@ Audiovisual creators share their vision about Corona virus pandemic. Users get t
 
 #### Amor/fiesta
 
-Users must choose a character and go through a path that changes based on their decisions. The journey includes videos, stories and tests. Information popups,offers more info about the story being played at the moment.
+Users must go through a path that changes based on their decisions. 
+The journey includes videos, stories and tests. Information popups,offers more info about the story being played at the moment.
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
@@ -69,7 +70,7 @@ Users must choose a character and go through a path that changes based on their 
 #### Old Folks Stories
 
 
-this Android app was build to help viewer of a TV show, to send his video stories more easily. fetures: Login/register / upload videos / explore content.
+this Android app was build to help viewers of a TV show, to easily share their video stories. Primary features: Login/register / Upload videos / Explore content.
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
@@ -99,10 +100,10 @@ this Android app was build to help viewer of a TV show, to send his video storie
 
 #### Muntref Desktop app.
 
-This Desktop App was build to replaec an old visual basic one. it should search on 5 millons row of inmigrant data. It offers museum visitors
+This Desktop App was build to replace an old visual basic one. It's mainly uses to search on 5 millons row of inmigrants data. It offers museum visitors
 the opportunity, to find the relatives that arrived to Argentina in the past.
-While  the operator is looking for a correct match, the visitors could watch an animation on a second screen. Also share some info to the visitors
-to help them find a match
+While  the operator is looking for a correct match, the visitors could watch an animation on a second screen. 
+Also share some info to the visitors to help them find a match
 
 Operator view:
 
