@@ -12,6 +12,9 @@
 <img src="https://github.com/arielgk/arielgk/raw/main/img/bim.gif" width="500px">
 
 <img src="https://github.com/arielgk/arielgk/raw/main/img/uys.gif" width="500px">
+<img src="https://github.com/arielgk/arielgk/raw/main/img/inmigrantes2.gif" width="500px">
+
+<img src="https://github.com/arielgk/arielgk/raw/main/img/inmigrantes.gif" width="500px">
 
  
 <!--
