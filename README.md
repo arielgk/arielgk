@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences. (react 💚)
+I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences. (react 💚).
 
 ## Technologies & Tools
 
@@ -17,9 +17,20 @@ I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build intera
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+
+
+
 ### Learning now
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879)
+
+
+
+### What am I doing now?
+I'm currently working on a Telecommunication Company as a developer and  building apps for TV (OTT). 
+Learning a lot about players and streaming technologies (Dash, Widevine, HLS)
+
+
 
 ## Relevant proyects
 
