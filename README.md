@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences.
+I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences, (react 💚)
 
 ## Technologies & Tools
 
@@ -9,7 +9,8 @@ I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build intera
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
@@ -36,7 +37,7 @@ Kids can enjoy this show with this website animated sections.
 
 #### Bim, video explorer
 
-Creator share their vision about Corona virus pandemic. Users get tag related and curated videos in this interactive website.
+Audiovisual creators share their vision about Corona virus pandemic. Users get tag related and curated videos in this interactive website.
 
 ![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
