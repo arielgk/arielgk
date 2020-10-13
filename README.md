@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences, (react 💚)
+I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build interactive experiences. (react 💚)
 
 ## Technologies & Tools
 
@@ -67,6 +67,14 @@ this Android app was build to help viewer of a TV show, to send his video storie
 
 
 <img src="https://github.com/arielgk/arielgk/raw/main/img/cuentos_de_viejos.gif" width="500px">
+
+
+
+#### UX/UI for Mobile App.
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
+
+<img src="https://github.com/arielgk/arielgk/raw/main/img/ux.gif" width="500px">
+
 
 #### Muntref augmented reality IOS/Android app.
 
