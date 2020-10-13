@@ -158,7 +158,7 @@ Electron app for museums. Allow users to start a video call to another museum.
  
 #### Javascript Games
 
-<a  href="https://www.youtube.com/watch?v=-Uaq-i7zWCpQ">Infinite Runner</a> 
+<a  href="https://www.youtube.com/watch?v=Uaq-i7zWCpQ">Infinite Runner</a> 
 <br/>  
 <a  href="https://www.youtube.com/watch?v=7zRofO0L5to">Snowboard</a> 
 <br/>  
