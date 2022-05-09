@@ -36,6 +36,19 @@ Learning a lot about players and streaming technologies (Dash, Widevine, HLS)
 
 ## Relevant proyects
 
+
+
+#### Data Therapy
+
+Website with GSAP scroll Animations
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+<img src="https://github.com/arielgk/arielgk/raw/main/img/trydatatherapy.gif" width="300px">
+
+
+
 #### Amor/fiesta
 
 Users must go through a path that changes based on their decisions. 
