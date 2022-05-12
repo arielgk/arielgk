@@ -23,13 +23,30 @@ I'm Ariel Kuhn, I'm a frontend and backend developer, and I like to build intera
 
 
 ### What am I Learning now?
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879)
-![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879)
+- Building complex apps with swift.
+- Creating 3d content with react for webs and apps.
+- Complex animations for the web using threejs , gsap and similar libraries.
+- ML content generation with tensorflow.
 
+
+
+
+[//]: # (![]&#40;https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879&#41;)
+
+[//]: # ()
+[//]: # (![]&#40;https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879&#41;)
+
+[//]: # (![]&#40;https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879&#41;)
 
 
 ### What am I doing now?
-I'm currently working on a Telecommunication Company as a developer and  building apps for TV (OTT). 
+
+I'm currently working on a video games company building apps for iOS and Android. 
+It involves creting user experiencies and working with several technologies: Machine learning, Tensorflow, React, Unity, C#, OpenCV and  laravel.
+
+
+
+Lately I used to work on a Telecommunication Company as a developer and  building apps for TV (OTT). 
 Learning a lot about players and streaming technologies (Dash, Widevine, HLS)
 
 
