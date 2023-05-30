@@ -23,7 +23,7 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 
 ### What am I Learning now?
-- Advanced patterns for game development using Unity and C#.
+- Advanced patterns for game development using Unity and C#. for example, [KuDI](https://github.com/arielgk/KuDI) (Dependency injection) and other patterns.
 - Building complex apps with React Native and utilizing Go as a backend.
 - Creating 3D content with React for websites and apps.
 - Implementing complex web animations using three.js, GSAP, and similar libraries.
