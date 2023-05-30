@@ -23,12 +23,11 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 
 ### What am I Learning now?
-- Building complex apps with swift.
-- Creating 3d content with react for webs and apps.
-- Complex animations for the web using threejs , gsap and similar libraries.
-- ML content generation with TensorFlow.
-
-
+- Advanced patterns for game development using Unity and C#.
+- Building complex apps with React Native and utilizing Go as a backend.
+- Creating 3D content with React for websites and apps.
+- Implementing complex web animations using three.js, GSAP, and similar libraries.
+- Experimenting with depth parallax content generation using TensorFlow and integrating it into mobile apps.
 
 
 [//]: # (![]&#40;https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879&#41;)
@@ -41,19 +40,14 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 ### What am I doing now?
 
-I'm currently working on a video games company building apps for iOS and Android. 
-It involves creating user experiences and working with several technologies: Machine learning, TensorFlow, React, Unity, C#, OpenCV and  laravel.
+I am currently employed by a video game company where I develop apps for iOS and Android. Initially, my role involved creating user experiences and working with various technologies such as machine learning, TensorFlow, React, Unity, C#, OpenCV, and Laravel.
 
+Currently, my focus has shifted to building complete games using Unity and C# from start to finish.
 
+Prior to this, I worked at a Telecommunication Company as a developer, primarily involved in building apps for TV (OTT). During that time, I gained extensive knowledge of players and streaming technologies such as Dash, Widevine, and HLS.
 
-Lately I used to work on a Telecommunication Company as a developer and  building apps for TV (OTT). 
-Learning a lot about players and streaming technologies (Dash, Widevine, HLS)
-
-
-
-## Relevant projects
-
-
+## Relevant projects 
+###### (Projects I've worked on and I can share due to being excluded from NDA agreements)
 
 #### Data Therapy
 
@@ -188,31 +182,6 @@ Electron app for museums that allows users to start a video call to another muse
 
 <a  href="https://www.youtube.com/watch?v=-CGF9muT5Kko">Video</a> 
  
-#### JavaScript Games
-
-<a  href="https://www.youtube.com/watch?v=Uaq-i7zWCpQ">Infinite Runner</a> 
-<br/>
-
-<a  href="https://www.youtube.com/watch?v=7zRofO0L5to">Snowboard</a> 
-<br/>
-<a  href="https://www.youtube.com/watch?v=RpiSuGiX5LY">Puzzle</a> 
-<br/>  
 
 
-
-<!--
-**arielgk/arielgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br/><br/> <br/><br/> 
 ![](https://komarev.com/ghpvc/?username=arielgk)
