@@ -23,21 +23,10 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 
 
-###  What am I doing now?
-- Building games as a solo developer under my own brand — from concept to release.
+### What am I doing now?- Building games as a solo developer under my own brand — from concept to release.
 - Exploring cloud and local LLM integration in mobile and desktop applications.
 - Applying advanced patterns in Unity and C# for scalable, maintainable game development (e.g. KuDI – a custom dependency injection system).
 
-
-[//]: # (![]&#40;https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879&#41;)
-
-[//]: # (![]&#40;https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&color=edb879&#41;)
-
-
-### What am I doing now?
 
 I am currently employed by a video game company where I develop apps for iOS and Android. Initially, my role involved creating user experiences and working with various technologies such as machine learning, TensorFlow, React, Unity, C#, OpenCV, and Laravel.
 
