@@ -22,12 +22,11 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 
 
-### What am I Learning now?
-- Advanced patterns for game development using Unity and C#. for example, [KuDI](https://github.com/arielgk/KuDI) (Dependency injection) and other patterns.
-- Building complex apps with React Native and utilizing Go as a backend.
-- Creating 3D content with React for websites and apps.
-- Implementing complex web animations using three.js, GSAP, and similar libraries.
-- Experimenting with depth parallax content generation using TensorFlow and integrating it into mobile apps.
+
+###  What am I doing now?
+- Building games as a solo developer under my own brand — from concept to release.
+- Exploring cloud and local LLM integration in mobile and desktop applications.
+- Applying advanced patterns in Unity and C# for scalable, maintainable game development (e.g. KuDI – a custom dependency injection system).
 
 
 [//]: # (![]&#40;https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=black&color=edb879&#41;)
