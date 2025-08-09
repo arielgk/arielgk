@@ -23,7 +23,7 @@ I'm Ariel Kuhn, and I like to build interactive experiences. (react 💚).
 
 
 
-### What am I doing now?- Building games as a solo developer under my own brand — from concept to release.
+### What am I doing now?
 - Exploring cloud and local LLM integration in mobile and desktop applications.
 - Applying advanced patterns in Unity and C# for scalable, maintainable game development (e.g. KuDI – a custom dependency injection system).
 
