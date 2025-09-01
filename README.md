@@ -45,14 +45,14 @@ A production-ready Retrieval-Augmented Generation system built with modern web t
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=ollama&logoColor=white&color=2bbc8a)
 
 <img src="https://github.com/arielgk/arielgk/raw/main/img/rag.gif" width="500px">
 
 **Key Features:**
 - Real-time streaming responses for better UX using Server-Sent Events (SSE)
-- Vector similarity search with both HNSW and MySQL backends
+- Vector similarity search with PostgreSQL and pgvector extension
 - Document ingestion pipeline with automatic chunking and embedding
 - Local LLM integration with Ollama (GPU-accelerated)
 - Docker containerization for easy deployment
