@@ -39,7 +39,7 @@ Prior to this, I worked at a Telecommunication Company as a developer, primarily
 
 #### RAG AI System 
 
-A production-ready Retrieval-Augmented Generation system built with modern web technologies. This complete RAG system enables intelligent document Q&A through AI, allowing users to ask questions in natural language and receive accurate, context-aware responses by searching through document collections.
+A Retrieval-Augmented Generation system built with modern web technologies. This complete RAG system enables intelligent document Q&A through AI, allowing users to ask questions in natural language and receive accurate, context-aware responses by searching through document collections.
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
