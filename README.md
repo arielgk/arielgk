@@ -37,6 +37,28 @@ Prior to this, I worked at a Telecommunication Company as a developer, primarily
 ## Relevant projects 
 ###### (Projects I've worked on and I can share due to being excluded from NDA agreements)
 
+#### RAG AI System 
+
+A production-ready Retrieval-Augmented Generation system built with modern web technologies. This complete RAG system enables intelligent document Q&A through AI, allowing users to ask questions in natural language and receive accurate, context-aware responses by searching through document collections.
+
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-Ollama-informational?style=flat&logo=ollama&logoColor=white&color=2bbc8a)
+
+<img src="https://github.com/arielgk/arielgk/raw/main/img/rag.gif" width="500px">
+
+**Key Features:**
+- Real-time streaming responses for better UX using Server-Sent Events (SSE)
+- Vector similarity search with both HNSW and MySQL backends
+- Document ingestion pipeline with automatic chunking and embedding
+- Local LLM integration with Ollama (GPU-accelerated)
+- Docker containerization for easy deployment
+
+[GitHub Repository](https://github.com/arielgk/rag-ai-system)
+
 #### Data Therapy
 
 Website with GSAP scroll Animations
