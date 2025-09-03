@@ -69,7 +69,7 @@ Website with GSAP scroll Animations
 <img src="https://github.com/arielgk/arielgk/raw/main/img/trydatatherapy.gif" width="300px">
 
 
-[Site](https://trydatatherapy.com)
+[GitHub Repository](https://github.com/arielgk/laravel_inertia_site)
 
 
 #### Amor/fiesta
