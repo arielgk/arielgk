@@ -66,7 +66,7 @@ Website with GSAP scroll Animations
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 
-<img src="https://github.com/arielgk/arielgk/raw/main/img/trydatatherapy.gif" width="300px">
+<img src="https://github.com/arielgk/arielgk/raw/main/img/trydatatherapy.gif" width="400px">
 
 
 [GitHub Repository](https://github.com/arielgk/laravel_inertia_site)
