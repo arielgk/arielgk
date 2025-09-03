@@ -137,7 +137,7 @@ this Android app was built to help viewers of a TV show, to easily share their v
   
 <img src="https://github.com/arielgk/arielgk/raw/main/img/ra.gif" width="500px">
 
-<a  href="https://www.youtube.com/watch?v=-YDyifqknnQk" target="_blank">Video</a> 
+<a  href="https://youtu.be/KOkXDouabos" target="_blank">Video</a> 
 
 #### Muntref Desktop app.
 
