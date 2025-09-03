@@ -137,7 +137,7 @@ this Android app was built to help viewers of a TV show, to easily share their v
   
 <img src="https://github.com/arielgk/arielgk/raw/main/img/ra.gif" width="500px">
 
-<a  href="https://www.youtube.com/watch?v=-YDyifqknnQk">Video</a> 
+<a  href="https://www.youtube.com/watch?v=-YDyifqknnQk" target="_blank">Video</a> 
 
 #### Muntref Desktop app.
 
@@ -167,7 +167,7 @@ Web-based Flyer WYSIWYG builder.
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 
-<a  href="https://youtu.be/-EmdHCwON7k">Video</a>  
+<a  href="https://youtu.be/-EmdHCwON7k" target="_blank">Video</a>  
 
 
 #### GTRF Team Project Manager
@@ -175,14 +175,14 @@ Web-based Project management software introducing projects, tasks, work units, t
 
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 
-<a  href="https://youtu.be/SwLpiAD9lzE">Video</a>  
+<a  href="https://www.youtube.com/watch?v=SwLpiAD9lzE" target="_blank">Video</a>  
 
 #### CIP ANDROID/IOS app 
 React Native app for a two-day-long event.
 
 ![](https://img.shields.io/badge/Tools-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-<a  href="https://www.youtube.com/watch?v=1240wdFDd4U">Video</a> 
+<a  href="https://www.youtube.com/watch?v=1240wdFDd4U" target="_blank">Video</a> 
  
 #### Ventanas BS Kiosk app
 Electron app for museums that allows users to start a video call to another museum.
@@ -190,7 +190,7 @@ Electron app for museums that allows users to start a video call to another muse
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a) 
 
-<a  href="https://youtu.be/CGF9muT5Kko">Video</a> 
+<a  href="https://youtu.be/CGF9muT5Kko" target="_blank">Video</a> 
  
 
 
