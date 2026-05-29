@@ -48,6 +48,8 @@ A lab project for creating interactive roleplay simulations from a simple prompt
 
 <img src="https://github.com/arielgk/arielgk/raw/main/img/llm-chat.gif" width="500px">
 
+<a href="https://drive.google.com/file/d/1ZcHQdHblj2GZJdzD6plOSpBzudom3jzE/view?usp=drive_link" target="_blank">Watch full experience</a>
+
 **Key Features:**
 - Google Gemma 4 integration for LLM-powered simulation generation
 - Piper TTS for text-to-speech character voices
