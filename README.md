@@ -37,6 +37,23 @@ Prior to this, I worked at a Telecommunication Company as a developer, primarily
 ## Relevant projects 
 ###### (Projects I've worked on and I can share due to being excluded from NDA agreements)
 
+#### Lab Project
+
+A lab project for creating interactive roleplay simulations from a simple prompt. The system generates a visual graph with personas, characters, scenes, environments, events, and relationships. Users can then edit, connect, and expand the simulation manually through a node-based canvas. Designed as a flexible tool for training scenarios, branching narratives, and procedural roleplay experiences.
+
+![](https://img.shields.io/badge/AI-Google_Gemma_4-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TTS-Piper-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+<img src="https://github.com/arielgk/arielgk/raw/main/img/llm-chat.gif" width="500px">
+
+**Key Features:**
+- Google Gemma 4 integration for LLM-powered simulation generation
+- Piper TTS for text-to-speech character voices
+- Visual node-based graph editor for personas, scenes, and events
+- Branching narrative and procedural roleplay support
+
 #### RAG AI System 
 
 A Retrieval-Augmented Generation system built with modern web technologies. This complete RAG system enables intelligent document Q&A through AI, allowing users to ask questions in natural language and receive accurate, context-aware responses by searching through document collections.
